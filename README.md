@@ -1,2 +1,2 @@
-# cheatsheet
-Cheatsheet
+# Cheat Sheet
+Cheat Sheet
